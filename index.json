@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "fvcore",
+  "versions": [
+    {
+      "commit": "8363d8d9e048e04a528112a15a50696fe125f97f",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:28:08.029952+00:00"
+    }
+  ]
+}
